@@ -1,2 +1,2 @@
 # jnjsolutions.github.io
-JNJ Solutions Works
+JNJ Freelance Solutions Works
